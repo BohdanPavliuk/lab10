@@ -1,5 +1,5 @@
-package ua.edu.ucu.apps.task2;
+// package ua.edu.ucu.apps.task2;
 
-public enum Gender {
-    MALE, FEMALE
-}
+// public enum Gender {
+//     MALE, FEMALE
+// }
